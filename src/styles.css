@@ -14,7 +14,7 @@
   flex-direction: column;
   justify-content: space-between;
   height: 400px;
-  box-sizing: border-box; /* Ensure padding is included in height */
+  box-sizing: border-box;
 }
 
 .card img {
@@ -36,7 +36,7 @@
 }
 
 .card-link {
-  display: block; /* Change to block to ensure full width */
+  display: block;
   margin-top: 10px;
   padding: 8px 16px;
   background-color: #007bff;
@@ -45,7 +45,7 @@
   border-radius: 4px;
   transition: background-color 0.3s ease;
   text-align: center;
-  width: calc(100% - 32px); /* Adjust width to account for padding */
+  width: calc(100% - 32px);
 }
 
 .card-link:hover {
