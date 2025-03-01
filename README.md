@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+**Note**: The GIF may not display directly on GitHub. You can access it by copying the link and pasting it into your browser.
 <img src='https://i.imgur.com/pqnNxRC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif  
